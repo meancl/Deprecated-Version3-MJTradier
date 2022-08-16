@@ -1,0 +1,235 @@
+C:\Users\MJ\source\repos\MJTradier\MJTradier\bin\Debug\MJTradier.exe.config
+C:\Users\MJ\source\repos\MJTradier\MJTradier\bin\Debug\MJTradier.exe
+C:\Users\MJ\source\repos\MJTradier\MJTradier\bin\Debug\MJTradier.pdb
+C:\Users\MJ\source\repos\MJTradier\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\MJ\source\repos\MJTradier\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.AssemblyReference.cache
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.Form1.resources
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.exe
+C:\Users\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.pdb
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.Form1.resources
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.exe
+C:\Users\all\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradier\MJTradier\bin\Debug\MJTradier.exe.config
+D:\MJ\source\repos\MJTradier\MJTradier\bin\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradier\MJTradier\bin\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradier\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.Form1.resources
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradier\MJTradier\obj\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.exe.config
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.Form1.resources
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.pdb
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.exe.config
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.exe
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.pdb
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.AssemblyReference.cache
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.Form1.resources
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.exe
+C:\Users\MJ\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.pdb
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.exe.config
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.exe
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.pdb
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.Form1.resources
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.exe
+C:\Users\all\source\repos\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.pdb
+F:\cSharpProj\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.exe.config
+F:\cSharpProj\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.exe
+F:\cSharpProj\MJTradier - 복사본\MJTradier\bin\Debug\MJTradier.pdb
+F:\cSharpProj\MJTradier - 복사본\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+F:\cSharpProj\MJTradier - 복사본\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.Form1.resources
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.exe
+F:\cSharpProj\MJTradier - 복사본\MJTradier\obj\Debug\MJTradier.pdb
+F:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.exe.config
+F:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.exe
+F:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.pdb
+F:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+F:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.Form1.resources
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.exe
+F:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.pdb
+G:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.exe.config
+G:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.exe
+G:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.pdb
+G:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+G:\cSharpProj\MJTradier_log분석용\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.AssemblyReference.cache
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.Form1.resources
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.exe
+G:\cSharpProj\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.exe.config
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\bin\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.Form1.resources
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradier_log분석용\MJTradier\obj\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradier_622일\MJTradier\bin\Debug\MJTradier.exe.config
+D:\MJ\source\repos\MJTradier_622일\MJTradier\bin\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradier_622일\MJTradier\bin\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradier_622일\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier_622일\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\MJTradier.Form1.resources
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradier_622일\MJTradier\obj\Debug\MJTradier.pdb
+G:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+G:\MJTradierRealMode\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+G:\MJTradierRealMode\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+G:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+G:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.Form1.resources
+G:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+G:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+G:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+G:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.exe
+G:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.pdb
+E:\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.exe.config
+E:\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.exe
+E:\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.pdb
+E:\MJTradierRealMode\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+E:\MJTradierRealMode\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+E:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.AssemblyReference.cache
+E:\MJTradierRealMode\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+E:\MJTradierRealMode\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+E:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+E:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.Form1.resources
+E:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+E:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+E:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+E:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.exe
+E:\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.pdb
+G:\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.exe.config
+G:\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.exe
+G:\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.pdb
+G:\MJTradierRealMode\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+G:\MJTradierRealMode\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.exe.config
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\bin\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.Form1.resources
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradierRealMode\MJTradier\obj\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\bin\Debug\MJTradier.exe.config
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\bin\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\bin\Debug\MJTradier.pdb
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.csprojAssemblyReference.cache
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.Form1.resources
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.exe
+D:\MJ\source\repos\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.pdb
+E:\MJTradierLogMode\MJTradier\bin\Debug\MJTradier.exe.config
+E:\MJTradierLogMode\MJTradier\bin\Debug\MJTradier.exe
+E:\MJTradierLogMode\MJTradier\bin\Debug\MJTradier.pdb
+E:\MJTradierLogMode\MJTradier\bin\Debug\Interop.KHOpenAPILib.dll
+E:\MJTradierLogMode\MJTradier\bin\Debug\AxInterop.KHOpenAPILib.dll
+E:\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.csproj.AssemblyReference.cache
+E:\MJTradierLogMode\MJTradier\obj\Debug\Interop.KHOpenAPILib.dll
+E:\MJTradierLogMode\MJTradier\obj\Debug\AxInterop.KHOpenAPILib.dll
+E:\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.csproj.ResolveComReference.cache
+E:\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.Form1.resources
+E:\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.Properties.Resources.resources
+E:\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.csproj.GenerateResource.cache
+E:\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.csproj.CoreCompileInputs.cache
+E:\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.exe
+E:\MJTradierLogMode\MJTradier\obj\Debug\MJTradier.pdb
